@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harshavardhan21
+- 👋 Hi, I’m Harshavardhan
 - 👀 I’m interested in Problem Solving
 
 <!---
