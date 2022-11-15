@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harshavardhan21
-- 👀 I’m interested in Problem SOolving
+- 👀 I’m interested in Problem Solving
 
 <!---
 Harshavardhan21/Harshavardhan21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
